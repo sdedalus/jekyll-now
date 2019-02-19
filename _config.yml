@@ -9,7 +9,7 @@ name: David Lewis
 description: Software Engineer and Architect at Improving
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ../images/sdedalus.png
+avatar: "../images/sdedalus.png"
 
 #
 # Flags below are optional
