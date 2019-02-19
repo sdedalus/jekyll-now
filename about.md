@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Senior consultant at Improving Enterprises, ocasional users group speaker, and former Parkour coach.  In addition I have an extensice collection of hobbies none of which are collecting.
+I'm a Senior consultant at Improving Enterprises, occasional users group speaker, and former Parkour coach.  In addition I have an extensive collection of hobbies none of which are collecting.
 
 ### More Information
 
