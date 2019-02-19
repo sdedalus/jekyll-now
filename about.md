@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Senior consultant at Improving Enterprises, ocasional users group speaker, and former Parkour coach.  In addition I have an extensice collection of hobbies none of which are collecting.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+...
 
 ### Contact me
 
